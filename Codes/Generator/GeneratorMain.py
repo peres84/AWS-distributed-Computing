@@ -1,8 +1,3 @@
-#Cloud Computing final project
-#Javier Peres 59046879
-#Sebastian Russo 79117092
-#Guillermo Trigo 99495048
-
 #This file is in charge of housing the functions to generate random .txt files type A, B and C by importing the random 
 #library and nltk for word generation
 import random

@@ -1,8 +1,3 @@
-#Cloud Computing final project
-#Javier Peres 59046879
-#Sebastian Russo 79117092
-#Guillermo Trigo 99495048
-
 import os
 from boto3.session import Session
 import settings

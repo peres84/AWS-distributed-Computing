@@ -1,9 +1,3 @@
-#Cloud Computing final project
-#Javier Peres 59046879
-#Sebastian Russo 79117092
-#Guillermo Trigo 99495048
-
-
 #This file acts as the "interface", hence why it imports other files like the GeneratorMain.py, 
 #the uploaderFiles.py and the downloadFiles.py which are pretty self explanatory
 from Codes.Generator.GeneratorMain import mainGenerator
